@@ -9,7 +9,7 @@ import {
     HttpModule
 } from "@angular/http";
 import {Injectable, Provider, NgModule, Optional, SkipSelf, ModuleWithProviders} from "@angular/core";
-import {Observable} from "rxjs/Observable";
+import {Observable} from "rxjs";
 import "rxjs/add/observable/fromPromise";
 import "rxjs/add/observable/defer";
 import "rxjs/add/operator/mergeMap";
