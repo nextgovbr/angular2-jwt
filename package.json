@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/nextgovbr/angular2-jwt/issues"
   },
-  "main": "angular2-jwt.js",
+  "main": "angular2-jwt.ts",
   "typings": "./angular2-jwt.d.ts",
   "types": "./angular2-jwt.d.ts",
   "homepage": "https://github.com/nextgovbr/angular2-jwt#readme",
